@@ -1,0 +1,12 @@
+sedan;temporadaBaja1;01/01/2023;31/03/2023;50
+sedan;temporadaAlta;01/04/2023;31/10/2023;75
+sedan;temporadaBaja2;01/11/2023;31/12/2023;50
+van;temporadaBaja1;01/01/2023;31/03/2023;100
+van;temporadaAlta;01/04/2023;31/10/2023;120
+van;temporadaBaja2;01/11/2023;31/12/2023;100
+SUV;temporadaBaja1;01/01/2023;31/03/2023;80
+SUV;temporadaAlta;01/04/2023;31/10/2023;100
+SUV;temporadaBaja2;01/11/2023;31/12/2023;80
+deportivo;temporadaBaja1;01/01/2023;31/03/2023;150
+deportivo;temporadaAlta;01/04/2023;31/10/2023;180
+deportivo;temporadaBaja2;01/11/2023;31/12/2023;150

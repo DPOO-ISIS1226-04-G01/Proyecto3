@@ -1,0 +1,2 @@
+disponible;Sede4
+reservado;deportivo;23/10/2023;25/10/2023;Sede4;Sede4;540;1320947685;NA

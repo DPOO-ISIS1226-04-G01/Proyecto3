@@ -1,0 +1,2 @@
+disponible;Sede1
+reservado;sedan;11/12/2023;12/12/2023;Sede1;Sede1;50.0;1000987675;NA

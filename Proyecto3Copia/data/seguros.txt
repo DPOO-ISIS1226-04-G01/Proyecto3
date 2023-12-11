@@ -1,0 +1,3 @@
+Sura;80
+Allianz;110
+Equidad;50

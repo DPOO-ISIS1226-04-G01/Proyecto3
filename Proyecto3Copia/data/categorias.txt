@@ -1,0 +1,4 @@
+sedan;1
+van;3
+SUV;2
+deportivo;4

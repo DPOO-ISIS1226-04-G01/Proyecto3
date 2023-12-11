@@ -1,0 +1,10 @@
+ACD345;Ford;2016;rojo;mecanica;sedan
+FGH567;Chevrolet;2017;negro;automatica;sedan
+HJU908;Mazda;2017;azul;mecanica;van
+SDE567;Peugeot;2017;verde;mecanica;van
+XDE567;Peugeot;2017;verde;automatica;van 
+HYU689;Nissan;2014;azul;mecanica;SUV
+UTC790;Honda;2017;negro;mecanica;SUV
+HNM369;Lexus;2011;gris;mecanica;SUV
+KLP567;Audi;2019;negro;automatica;deportivo
+WRT321;Mazda;2020;verde;mecanica;deportivo
